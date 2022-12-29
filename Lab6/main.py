@@ -6,7 +6,7 @@ import datetime
 from datetime import datetime
 
 
-TOKEN = '5817249581:AAHSyo0jBKAW1_NHdmsfXFh0XjcMLluBGZ8'
+TOKEN = 'token'
 bot = telebot.TeleBot(TOKEN)
 
 newYorkTz = pytz.timezone("America/New_York") 
